@@ -9,10 +9,8 @@ h1 {
 
 h2 {
   color: Green;
-}
-
-h2,
-p {
+  p {
   font-family: Calibri;
+}
 }
 </style>
