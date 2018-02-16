@@ -15,7 +15,9 @@ h2,
 p {
   font-family: Calibri;
 }
-body {
-  background: Black;
-}
 </style>
+body {
+  background: #141E30;
+  margin: 0;
+  padding: 0;
+}
