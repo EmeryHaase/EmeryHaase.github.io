@@ -1,14 +1,21 @@
-p {
-  font-family: Times;
-  color: Purple;
+body {
+  background-color: Black;
 }
+
+p {
+  font-family: Arial;
+  color: Gold;
+}
+
 h1 {
-  color: Blue;
+  color: Green;
 }
 
 h2 {
   color: Green;
 }
-  p {
-  font-family: Calibri;
+
+ol {
+  font-family: Arial;
+  color: Gold;
 }
